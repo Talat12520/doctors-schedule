@@ -1,0 +1,3 @@
+NPI,State,Login Time,Logout Time,Usage Time (mins),Region,Speciality,Count of Survey Attempts
+1000000005,IL,2025-03-08 11:41:00,2025-03-08 13:37:00,116,Midwest,Orthopedics,10
+1000000533,IL,2025-03-08 11:41:00,2025-03-08 13:10:00,89,West,Orthopedics,0
